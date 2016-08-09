@@ -1,0 +1,2 @@
+# non-organisation-specific
+This repository is for scripts, files... whatever... that I develop and should be able to use in my career, no matter what organisation I am working in. By that token, and also for obvious reasons of confidentiality, anything stored in here should be non-organisation specific. If an item contains references to anything relevant to a particular organisation, IT DOES NOT BELONG HERE and should be removed immediately.
